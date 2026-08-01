@@ -1,0 +1,23 @@
+{
+"version": 1,
+"apps": [
+{
+"id": "tv-player",
+"name": "TV Player",
+"category": "TV",
+"description": "Tu reproductor de televisión para Android TV.",
+"version": "1.2.0",
+"size": "35 MB",
+"rating": 4.6,
+"apkUrl": "https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/apks/tv-player.apk",
+"iconUrl": "https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/icons/tv-player.png",
+"coverUrl": "https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/covers/tv-player.jpg",
+"screenshots": [
+"https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/screenshots/tv-player-1.jpg",
+"https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/screenshots/tv-player-2.jpg"
+],
+"featured": true,
+"new": true
+}
+]
+}
