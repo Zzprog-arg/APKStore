@@ -1,3 +1,6 @@
+
+
+
 {
 "version": 1,
 "apps": [
@@ -19,6 +22,53 @@
 "featured": true,
 "new": false,
 "update": true
+},
+{
+"id": "XuperTv",
+"name": "XuperTv",
+"category": "TV",
+"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"version": "1.2.0",
+"size": "34.1 MB",
+"rating": 5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/XuperTv.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/xupertv_logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": true
+},
+
+{
+"id": "MXLiptv",
+"name": "MXL IPTV",
+"category": "TV",
+"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"version": "1.2.0",
+"size": "40.4 MB",
+"rating": 2.5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/MXL.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": true
 }
+
+
+
+],
+"main": [
+    {
+  "app_logo": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/logo_main.png"      
+    }
 ]
 }
