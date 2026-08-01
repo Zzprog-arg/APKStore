@@ -33,10 +33,10 @@
 "rating": 5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/XuperTv.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/xupertv_logo.webp",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/xupertv_logo.webp",
 "screenshots": [
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/Xupertv_screenshot_1.webp",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/Xupertv_screenshot_2.webp"
 ],
 "featured": true,
 "new": false,
@@ -53,7 +53,7 @@
 "rating": 2.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/MXL.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
 "screenshots": [
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
