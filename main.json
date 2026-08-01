@@ -26,10 +26,12 @@
 {
 "id": "XuperTv",
 "name": "XuperTv",
-"category": "TV",
+"category": "TV", 
 "description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
 "version": "1.2.0",
 "size": "34.1 MB",
+"packageName": "com.android.mgstxNF",
+"packageName2": "com.android.mgstv",
 "rating": 5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/XuperTv.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/xupertv_logo.webp",
