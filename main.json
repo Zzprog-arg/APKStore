@@ -56,13 +56,101 @@
 "size": "40.4 MB",
 "packageName": false,
 "packageName2": false,
-"rating": 2.5,
+"rating": 2.2,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/MXL.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/MXLIPTV_screenshot_1.webp",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": false
+},
+
+{
+"id": "angulisimo_tv",
+"name": "Angulisimo tv",
+"category": "TV",
+"description": "Angulisimo es una aplicacion de tv gratuita!",
+"version": "1.2.0",
+"size": "10.3 MB",
+"packageName": false,
+"packageName2": false,
+"rating": 2.5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Angulismo_BETA.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/angulisimo_tv_logo.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/angulisimo_tv_logo.jpg",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": false
+}, 
+
+{
+"id": "Fermon",
+"name": "Fermon plus",
+"category": "TV",
+"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"version": "1.2.0",
+"size": "45.7 MB",
+"packageName": false,
+"packageName2": false,
+"rating": 2.5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Femon_Plus.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
 "screenshots": [
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": false
+},
+
+{
+"id": "Tvbox2",
+"name": "Tv box plus 2",
+"category": "TV",
+"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"version": "1.2.0",
+"size": "12.1 MB",
+"packageName": false,
+"packageName2": false,
+"rating": 4.5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Tv_Box.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": false
+},
+
+{
+"id": "yt_premium",
+"name": "Youtube Premium",
+"category": "TV",
+"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"version": "1.2.0",
+"size": "12.1 MB",
+"packageName": false,
+"packageName2": false,
+"rating": 3.5,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Yt_Premium.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/Yt_Premium.png",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/Yt_Premium.png"
 ],
 "featured": true,
 "new": false,
