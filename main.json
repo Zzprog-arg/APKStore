@@ -23,7 +23,9 @@
 ],
 "featured": true,
 "new": false,
-"update": true
+"update": true,
+"paid": true,
+"verif": true
 },
 {
 "id": "XuperTv",
@@ -44,14 +46,16 @@
 ],
 "featured": true,
 "new": false,
-"update": true
+"update": true,
+"paid": false,
+"verif": true
 },
 
 {
 "id": "MXLiptv",
 "name": "MXL IPTV",
 "category": "TV",
-"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"description": "MXL Es una app gratuita que cuenta con un gran catalogo de canales!",
 "version": "1.2.0",
 "size": "40.4 MB",
 "packageName": false,
@@ -66,7 +70,9 @@
 ],
 "featured": true,
 "new": false,
-"update": false
+"update": false,
+"paid": false,
+"verif": true
 },
 
 {
@@ -88,7 +94,9 @@
 ],
 "featured": true,
 "new": false,
-"update": false
+"update": false,
+"paid": false,
+"verif": false
 }, 
 
 {
@@ -110,7 +118,9 @@
 ],
 "featured": true,
 "new": false,
-"update": false
+"update": false,
+"paid": false,
+"verif": false
 },
 
 {
@@ -132,7 +142,9 @@
 ],
 "featured": true,
 "new": false,
-"update": false
+"update": false,
+"paid": true,
+"verif": true
 },
 
 {
@@ -154,7 +166,9 @@
 ],
 "featured": true,
 "new": false,
-"update": false
+"update": false,
+"paid": false,
+"verif": true
 }
 
 
