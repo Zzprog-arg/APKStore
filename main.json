@@ -54,9 +54,9 @@
 {
 "id": "MXL_MOVIES",
 "name": "MXL MOVIES",
-"category": "TV",
+"category": "Pelicula",
 "description": "MXL MOVIES Es una app gratuita que cuenta con un gran catalogo de Peliculas y series!",
-"version": "3.2.5",
+"version": "2.5.2-tvbox",
 "size": "40.4 MB",
 "packageName": "tv.mxlmovies.app",
 "packageName2": false,
@@ -150,7 +150,7 @@
 {
 "id": "yt_premium",
 "name": "Youtube Premium",
-"category": "TV",
+"category": "TV, Musica", 
 "description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
 "version": "?",
 "size": "12.1 MB",
