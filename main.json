@@ -52,15 +52,15 @@
 },
 
 {
-"id": "MXLiptv",
-"name": "MXL IPTV",
+"id": "MXL_MOVIES",
+"name": "MXL MOVIES",
 "category": "TV",
-"description": "MXL Es una app gratuita que cuenta con un gran catalogo de canales!",
+"description": "MXL MOVIES Es una app gratuita que cuenta con un gran catalogo de Peliculas y series!",
 "version": "3.2.5",
 "size": "40.4 MB",
-"packageName": "tv.mxliptv.app",
+"packageName": "tv.mxlmovies.app",
 "packageName2": false,
-"rating": 2.2,
+"rating": 3.8,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/MXL.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
@@ -96,7 +96,7 @@
 "new": false,
 "update": false,
 "paid": false,
-"verif": false
+"verif": true
 }, 
 
 {
