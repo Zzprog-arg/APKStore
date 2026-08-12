@@ -110,8 +110,8 @@
 "packageName2": false,
 "rating": 2.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Femon_Plus.apk",
-"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png",
 "screenshots": [
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png"
@@ -149,17 +149,17 @@
 "id": "Tvbox2",
 "name": "Tv box plus 2",
 "category": "TV",
-"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
+"description": "Tv plis 2 es una aplicacion con un gran catalogo de canales de tv nacionales e internacionales. ademas de tener una gran variedad de peliculas y series actualizadas! [Aplicacion de pago]",
 "version": "1.5",
 "size": "12.1 MB",
 "packageName": "com.example.tvplusdos",
 "packageName2": false,
 "rating": 4.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Tv_Box.apk",
-"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/tv_plus.jpg",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "screenshots": [
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/image.png",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
 ],
 "featured": true,
