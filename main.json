@@ -127,24 +127,22 @@
 "id": "radio_and_music",
 "name": "Flow Radio y musica",
 "category": "TV",
-"description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
-"version": "1.2.0",
-"size": "45.7 MB",
-"packageName": "com.fermon.plus",
+"description": "Flow Radio y musica Es una app gratuita que cuenta con un gran catalogo de radios y musica clasica!",
+"version": "1.1",
+"size": "2.41 MB",
+"packageName": "ar.com.flow.radiosymusica",
 "packageName2": false,
 "rating": 2.5,
-"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Femon_Plus.apk",
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/radio.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/ar.com.flow.radiosymusica.png",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/ar.com.flow.radiosymusica.png",
 "screenshots": [
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
-],
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/flow_radio.png"],
 "featured": true,
 "new": false,
 "update": false,
 "paid": false,
-"verif": false
+"verif": true
 },
 
 {
