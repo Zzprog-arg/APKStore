@@ -158,11 +158,11 @@
 "packageName2": false,
 "rating": 3.7,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/File%20Manager.apk",
-"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/filemanager.jpg",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
 "screenshots": [
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/MXLIPTV_screenshot_1.webp",
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_1.jpeg",
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_1.jpeg"
 ],
 "featured": true,
 "new": false,
