@@ -177,7 +177,7 @@
 "version": "1.5",
 "size": "12.1 MB",
 "packageName": "com.example.tvplusdos",
-"packageName2": false,
+"packageName2": "com.example.tvplus2",
 "rating": 4.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Tv_Box.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/tv_plus.jpg",
