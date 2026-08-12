@@ -218,6 +218,31 @@
 },
 
 {
+"id": "Play_tv",
+  "name": "Play tv premium",
+"category": "tv",
+"description": "play tv premium tiene un gran catalogo de canales de tv nacionales e internacionales estables.",
+"version": "20.1",
+"size": "5.2 MB",
+"packageName": "com.alphainventor.filemanager",
+"packageName2": false,
+"rating": 3.7,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/File%20Manager.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/filemanager.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/file_manager.webp",
+"screenshots": [
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_1.jpeg",
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_2.png"
+],
+"featured": true,
+"new": false,
+"update": false,
+"paid": false,
+"verif": true
+},
+
+
+{
 "id": "yt_premium",
 "name": "Youtube Premium",
 "category": "TV, Musica", 
