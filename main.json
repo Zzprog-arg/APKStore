@@ -148,6 +148,30 @@
 },
 
 {
+"id": "File_Manager",
+"name": "File Manager",
+"category": "Herramientas",
+"description": "Gestor de archivos.",
+"version": "3.7.2",
+"size": "5.2 MB",
+"packageName": "com.alphainventor.filemanager",
+"packageName2": false,
+"rating": 3.7,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/File%20Manager.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/MXL_Iptv_Logo.webp",
+"screenshots": [
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/MXLIPTV_screenshot_1.webp",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+],
+"featured": true,
+"new": false,
+"update": false,
+"paid": false,
+"verif": true
+},
+
+{
 "id": "yt_premium",
 "name": "Youtube Premium",
 "category": "TV, Musica", 
