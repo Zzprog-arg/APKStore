@@ -113,8 +113,8 @@
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "screenshots": [
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
-"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png",
+"https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/com.tv.femonplus.png"
 ],
 "featured": true,
 "new": false,
@@ -124,8 +124,8 @@
 },
 
 {
-"id": "Fermon",
-"name": "Fermon plus",
+"id": "radio_and_music",
+"name": "Flow Radio y musica",
 "category": "TV",
 "description": "XuperTv Es una app gratuita que cuenta con un gran catalogo de peliculas series y canales!",
 "version": "1.2.0",
@@ -134,8 +134,8 @@
 "packageName2": false,
 "rating": 2.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Femon_Plus.apk",
-"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/ar.com.flow.radiosymusica.png",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/ar.com.flow.radiosymusica.png",
 "screenshots": [
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
