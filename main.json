@@ -81,16 +81,16 @@
 "category": "Pelicula",
 "description": "FilPlus es una app gratuita que cuenta con un gran catalogo de peliculas y series actualizadas!",
 "version": "1.4.4",
-"size": "5.2 MB",
+"size": "4.57 MB",
 "packageName": "com.dpsteam.filmplus",
 "packageName2": false,
 "rating": 3.7,
-"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/File%20Manager.apk",
-"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/filemanager.jpg",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/file_manager.webp",
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/filpl.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/Film-Plus-Espanol-Apk.png",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/Film-Plus-Espanol-Apk.png",
 "screenshots": [
-  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_1.jpeg",
-  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_2.png"
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
 ],
 "featured": true,
 "new": false,
@@ -187,7 +187,7 @@
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
 ],
 "featured": true,
-"new": false,
+"new": true,
 "update": false,
 "paid": true,
 "verif": true
