@@ -76,6 +76,30 @@
 },
 
 {
+"id": "FilPlus",
+"name": "FilPlus",
+"category": "Pelicula",
+"description": "FilPlus es una app gratuita que cuenta con un gran catalogo de peliculas y series actualizadas!",
+"version": "1.4.4",
+"size": "5.2 MB",
+"packageName": "com.dpsteam.filmplus",
+"packageName2": false,
+"rating": 3.7,
+"apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/File%20Manager.apk",
+"iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/filemanager.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/coverUrl/file_manager.webp",
+"screenshots": [
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_1.jpeg",
+  "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/screenshots/filemanager_screenshot_2.png"
+],
+"featured": true,
+"new": false,
+"update": false,
+"paid": false,
+"verif": true
+},
+
+{
 "id": "angulisimo_tv",
 "name": "Angulisimo tv",
 "category": "TV",
@@ -157,7 +181,7 @@
 "rating": 4.5,
 "apkUrl": "https://github.com/Zzprog-arg/APKStore/raw/refs/heads/main/apks/Tv_Box.apk",
 "iconUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/tv_plus.jpg",
-"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg",
+"coverUrl": "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/tv_plus.jpg",
 "screenshots": [
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/image.png",
 "https://raw.githubusercontent.com/Zzprog-arg/APKStore/refs/heads/main/icons/N_A_logo.jpg"
